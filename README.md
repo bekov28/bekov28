@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 - 🌱 I'm Berd from Uzbekistan and currently working on Full Stack Projects and learning...
-- 💬 Interested in Web and Mobile Development 
+- 💬 Interested in Web (Full Stack) and Mobile Development (React-native)
 - 📫 Email me: orziqulov_berdiyor@mail.ru
 
 <h2>💻 Tech Stack:</h2> 
