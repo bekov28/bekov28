@@ -3,7 +3,7 @@
 
 - 🌱 Seoul-based Full-Stack Dev from Uzbekistan
 - 💬 Interested in Web and Mobile Development (React-Native)
-- 📫 Email me: orziqulov_berdiyor@mail.ru
+- 📫 Email: orziqulov_berdiyor@mail.ru
 
 <h2>💻 Tech Stack:</h2> 
 <div style="display:flex;">
