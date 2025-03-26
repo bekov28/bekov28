@@ -1,5 +1,8 @@
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
+
+<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
+
 - 🌱 I'm Berd from Uzbekistan and currently working on Full Stack Projects and learning...
 - 💬 Interested in Web (Full Stack) and Mobile Development (React-Native)
 - 📫 Email me: orziqulov_berdiyor@mail.ru
