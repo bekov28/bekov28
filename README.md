@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
 
-- 🌱 Seoul-based Full-Stack Dev from Uzbekistan
+- 🌱 Seoul-based Full-Stack'er from Uzbekistan
 - 💬 Interested in Web and Mobile Development (React-Native)
 - 📫 Email: orziqulov_berdiyor@mail.ru
 
