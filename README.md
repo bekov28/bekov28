@@ -1,5 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
+![Berd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true)
 
 - 🌱 Seoul-based Full-Stack'er from Uzbekistan
 - 💬 Interested in Web and Mobile Development (React-Native)
@@ -36,4 +37,4 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="50" width="50"/>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true&theme=transparent)
+
