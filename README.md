@@ -1,5 +1,5 @@
-![Berd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekov28&layout=compact)](https://github.com/bekov28/github-readme-stats&layout=compact)
+<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true"/>
+<img alt="top langs" align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekov28&layout=compact"/>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
 
 - 🌱 Seoul-based Full-Stack'er from Uzbekistan
