@@ -1,6 +1,5 @@
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
 ![Berd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
 
 - 🌱 Seoul-based Full-Stack'er from Uzbekistan
 - 💬 Interested in Web and Mobile Development (React-Native)
