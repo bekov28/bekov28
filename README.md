@@ -4,7 +4,8 @@
 
 - 🌱 Seoul-based Full-Stack'er from Uzbekistan
 - 💬 Interested in Web and Mobile Development (React-Native)
-- 📫 Email: orziqulov_berdiyor@mail.ru
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](berdiyororzu@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/berdiyor-orzikulov/)
 
 <h2>💻 Tech Stack:</h2> 
 <div style="display:flex;">
