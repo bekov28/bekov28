@@ -2,7 +2,7 @@
 <img alt="top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekov28&layout=compact"/>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
 
-- 🌱 Seoul-based Full-Stack'er from Uzbekistan
+- 🌱 I am Berd, a Full Stack Developer from Uzbekistan. Currenly, based in Seoul, South Korea!
 - 💬 Exploring Web and Mobile Development (React-Native)
 - Currently working on AI Blog Website <br/><br/>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:berdiyororzu@gmail.com)
