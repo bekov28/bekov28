@@ -3,8 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
 
 - 🌱 I am Berd, a Full Stack Developer from Uzbekistan. Currenly, based in Seoul, South Korea!
-- 💬 Exploring Web Frontend and backend technologies
+- 💬 Exploring Web Frontend and Backend technologies
 - 👨🏻‍💻 Interested in AI, Web3 and Mobile apps
+- 🚶‍♂️ Hobbies: Travel and chess 
 - Currently working on AI Blog Website <br/><br/>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:berdiyororzu@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/berdiyor-orzikulov/)
