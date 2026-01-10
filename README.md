@@ -1,7 +1,3 @@
-<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true"/>
-<img alt="top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekov28&layout=compact"/>
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Berd&fontAlign=50&reversal=false">
-
 - 🌱 I am Berd, a Full Stack Developer from Uzbekistan. Currenly, based in Seoul, South Korea!
 - 💬 Exploring Web Frontend and Backend technologies
 - 👨🏻‍💻 Interested in AI, Web3 and Mobile apps
