@@ -2,7 +2,7 @@
 - 🇰🇷 Currenly, based in Seoul, South Korea!
 - 💬 Exploring Web Frontend and Backend technologies
 - 👨🏻‍💻 Interested in AI, Web3 and Mobile apps
-- 🚶‍♂️ Hobbies: Travel and chess 
+- 🚶‍♂️ Hobbies: Travel, playing chess and watching boxing 
 - Currently working on AI Blog Website <br/><br/>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:berdiyororzu@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/berdiyor-orzikulov/)
