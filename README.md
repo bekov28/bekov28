@@ -1,4 +1,5 @@
-- 🌱 I am Berd, a Full Stack Developer from Uzbekistan. Currenly, based in Seoul, South Korea!
+- 🌱 I am Berd, a Full Stack Developer from Uzbekistan
+- 🇰🇷 Currenly, based in Seoul, South Korea!
 - 💬 Exploring Web Frontend and Backend technologies
 - 👨🏻‍💻 Interested in AI, Web3 and Mobile apps
 - 🚶‍♂️ Hobbies: Travel and chess 
