@@ -2,6 +2,7 @@
 - 🇰🇷 Currenly, based in Seoul, South Korea!
 - 💬 Exploring Web Frontend and Backend technologies
 - 👨🏻‍💻 Interested in AI, Web3 and Mobile apps
+- 💻 Working on AI-featured Blog Platform lately
 - 🚶‍♂️ Hobbies: Travel | Chess | Boxing
   
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:berdiyororzu@gmail.com)
