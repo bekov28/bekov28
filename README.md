@@ -3,7 +3,7 @@
 - 💬 Exploring Web Frontend and Backend technologies
 - 👨🏻‍💻 Interested in AI, Web3 and Mobile apps
 - 💻 Working on AI-featured Blog Platform lately
-- 🚶‍♂️ Hobbies: Travel | Chess | Boxing | Reading tech-related articles
+- 🚶‍♂️ Hobbies: Travel | Chess | Reading tech-related articles
   
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:berdiyororzu@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/berdiyor-orzikulov/)
