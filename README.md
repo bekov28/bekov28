@@ -1,14 +1,15 @@
 <div style="display:flex; flex-direction:column; align-items:center; justify-content:space-between">
   <div>
-- 🌱 I am Berd, a Full Stack Developer from Uzbekistan
-- 🇰🇷 Currenly, based in Seoul, South Korea!
-- 💬 Exploring Web Frontend and Backend technologies
-- 👨🏻‍💻 Interested in AI, Web3 and Mobile apps
-- 💻 Working on AI-featured Blog Platform lately
-- 🚶‍♂️ Hobbies: Travel | Chess | Tech Blogs | Networking 
+    <ul>
+      <li>- 🌱 I am Berd, a Full Stack Developer from Uzbekistan</li>
+      <li>- 🇰🇷 Currenly, based in Seoul, South Korea!</li>
+      <li>- 💬 Exploring Web Frontend and Backend technologies</li>
+      <li>- 👨🏻‍💻 Interested in AI, Web3 and Mobile apps</li>
+      <li>- 💻 Working on AI-featured Blog Platform lately</li>
+      <li>- 🚶‍♂️ Hobbies: Travel | Chess | Tech Blogs | Networking</li>
+    </ul>
   </div>
-  <div><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
-</div>
+  <div><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500"></div>
 </div>
 
   
