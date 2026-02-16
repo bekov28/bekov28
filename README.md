@@ -1,4 +1,4 @@
-<div style="display:flex">
+<div style="display:flex; justify-content:space-between; align-items: center">
   <div>
 - 🌱 I am Berd, a Full Stack Developer from Uzbekistan
 - 🇰🇷 Currenly, based in Seoul, South Korea!
