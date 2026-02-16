@@ -1,9 +1,16 @@
+<div style="display:flex">
+  <div>
 - 🌱 I am Berd, a Full Stack Developer from Uzbekistan
 - 🇰🇷 Currenly, based in Seoul, South Korea!
 - 💬 Exploring Web Frontend and Backend technologies
 - 👨🏻‍💻 Interested in AI, Web3 and Mobile apps
 - 💻 Working on AI-featured Blog Platform lately
-- 🚶‍♂️ Hobbies: Travel | Chess | Tech Blogs | Networking
+- 🚶‍♂️ Hobbies: Travel | Chess | Tech Blogs | Networking 
+  </div>
+  <div><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
+</div>
+</div>
+
   
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:berdiyororzu@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/berdiyor-orzikulov/)
