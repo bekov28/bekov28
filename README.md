@@ -9,7 +9,7 @@
       <li> 🚶‍♂️ Hobbies: Travel | Chess | Tech Blogs | Networking</li>
     </ul>
   </div>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
+  <p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500"></p>
 </div>
 
   
