@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:column; align-items:center; justify-content:space-between; min-height: 450px;">
+<div style="display:flex; flex-direction:column; align-items:center; gap:20px;">
   <div>
     <ul>
       <li> 🌱 I am Berd, a Full Stack Developer from Uzbekistan</li>
@@ -9,7 +9,7 @@
       <li> 🚶‍♂️ Hobbies: Travel | Chess | Tech Blogs | Networking</li>
     </ul>
   </div>
-  <div style:"display:flex; justify-content:center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500"></div>
+  <div style:"display:flex; justify-content:center; width:100%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500"></div>
 </div>
 
   
