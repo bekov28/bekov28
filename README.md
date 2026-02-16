@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:column; align-items:center; justify-content:space-between">
+<div style="display:flex; flex-direction:column; align-items:center; justify-content:space-between; min-height: 450px;">
   <div>
     <ul>
       <li> 🌱 I am Berd, a Full Stack Developer from Uzbekistan</li>
