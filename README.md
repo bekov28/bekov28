@@ -5,7 +5,6 @@
       <li> 🇰🇷 Based in Seoul, South Korea </li>
       <li> 💬 Exploring Web Frontend and Backend technologies</li>
       <li> 👨🏻‍💻 Interested in AI, Web3 and Mobile apps</li>
-      <li> 💻 Exploring React and React Native lately</li>
       <li> 🚶‍♂️ Hobbies: Travel | Chess | Tech Blogs | Networking</li>
     </ul>
   </div>
