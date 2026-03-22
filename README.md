@@ -38,4 +38,4 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" height="40" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="40" width="40"/> 
 </div>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true&theme=great-gatsby)](https://github.com/bekov28?tab=repositories)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bekov28&show_icons=true&theme=great-gatsby(https://github.com/bekov28)
