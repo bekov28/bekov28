@@ -38,4 +38,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" height="40" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="40" width="40"/> 
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true&locale=en" alt="bekov28" /></p>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true&locale=en" alt="bekov28" /></p>'
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekov28&" alt="bekov28" /></p>
