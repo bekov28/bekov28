@@ -1,7 +1,7 @@
 <div style="display:flex; flex-direction:column; align-items:center; gap:20px;">
   <div>
     <ul>
-      <li> 🌱 I am Berd, a Full Stack Developer from Uzbekistan</li>
+      <li> 🌱 I am Berd, a Full Stack Web Developer from Uzbekistan</li>
       <li> 🇰🇷 Based in Seoul, South Korea </li>
       <li> 💬 Exploring Web Frontend, Backend and Mobile technologies</li>
       <li> 👨🏻‍💻 Interested in AI, Web3 and Mobile apps</li>
