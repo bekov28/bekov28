@@ -3,7 +3,7 @@
     <ul>
       <li> 🌱 I am Berd, a Full Stack Web Developer from Uzbekistan</li>
       <li> 🇰🇷 Based in Seoul, South Korea </li>
-      <li> 💬 Exploring Web Frontend, Backend and Mobile technologies</li>
+      <li> 💬 Exploring Frontend, Backend and Mobile technologies</li>
       <li> 👨🏻‍💻 Interested in AI, Web3 and Mobile apps</li>
       <li> 🚶‍♂️ Travel | Chess | Tech Meetups | Networking</li>
     </ul>
