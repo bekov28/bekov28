@@ -5,7 +5,7 @@
       <li> 🇰🇷 Based in Seoul, South Korea </li>
       <li> 💬 Exploring Frontend, Backend and Mobile technologies</li>
       <li> 👨🏻‍💻 Interested in AI, Web3 and Mobile apps</li>
-      <li> 🚶‍♂️ Travel | Chess | Tech Meetups | Networking</li>
+      <li> 🚶‍♂️ Travel | Chess | Tech Meetups | Networking | Foreign Languages</li>
     </ul>
   </div>
   <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">></p>
