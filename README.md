@@ -38,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" height="40" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" height="40" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="40" width="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png height="40" width="40"/>  
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" height="40" width="40"/>  
 </div>
 <br/>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekov28&show_icons=true&locale=en" alt="bekov28" /></p> -->
