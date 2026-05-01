@@ -49,12 +49,17 @@
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Tools</b></td>
+    <td align="left"><b>DevOps</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="35" title="Git"/>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="35" title="GitHub"/>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" height="35" title="GitLab"/>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="35" title="Docker"/>
+       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="35" title="Docker"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Tools</b></td>
+    <td>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" height="35" title="WebStorm"/>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" height="35" title="Android Studio"/>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" height="35" title="XCode"/>
