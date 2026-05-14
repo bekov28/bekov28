@@ -1,11 +1,15 @@
+# Berdiyor Orzikulov  
+**Frontend Engineer | Seoul, South Korea**
+
+Frontend Engineer with experience building production-grade Vue.js, Next.js and SpringBoot applications focused on performance, scalability, and maintainability.
+
+## Summary
+I build **high-performance, accessible frontend features** using React and TypeScript, with a strong focus on real-world impact.  
+In commercial projects, I’ve **boosted network performance by ~30%** by streamlining API handling and data-fetching logic, **reduced code duplication by 25%** through the delivery of a standardized, production-ready design system, and delivered modular, maintainable UI systems used in production.
+
+I work closely with designers, product managers, and backend engineers to ship reliable, user-focused interfaces.
+
 <div>
-  <ul>
-    <li style="list-style: none;"> 🌱 I am Berd, a Full Stack Web Developer from Uzbekistan</li>
-    <li style="list-style: none;"> 🇰🇷 Based in Seoul, South Korea </li>
-    <li style="list-style: none;"> 💬 Exploring Frontend, Backend and Mobile technologies</li>
-    <li style="list-style: none;"> 👨🏻‍💻 Interested in AI, Web3 and Mobile apps</li>
-    <li style="list-style: none;"> 🚶‍♂️ Travel | Chess | Tech Meetups | Networking </li>
-  </ul>
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
 </div>
 
@@ -16,13 +20,19 @@
 <a href="https://www.linkedin.com/in/berdiyor-orzikulov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<h2>💻 Tech Stack:</h2>
-<p><strong>Frontend:</strong> Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML</p>
-<p><strong>Styling:</strong> CSS, Tailwind CSS, SCSS, MUI, Styled Components</p>
-<p><strong>Data & APIs:</strong> REST API, React Query, TanStack Query, Redux Toolkit</p>
-<p><strong>Backend:</strong> Node.js, Express.js, MongoDB, Firebase, SpringBoot, Prisma</p>
-<p><strong>Mobile:</strong> React Native</p>
-<p><strong>Tools & DevOps:</strong> Vite, Git, CI/CD, Vercel, GitLab, GitHub, Docker, WebStorm, Android Stuido, XCode</p>
+## Tech Stack
+**Frontend:** Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML  
+**Styling:** CSS, Tailwind CSS, SCSS, MUI, Styled Components  
+**Data & APIs:** REST API, React Query, TanStack Query, Redux Toolkit  
+**Backend:** Node.js, Express.js, MongoDB, Firebase, SpringBoot, Prisma  
+**Mobile:** React Native  
+**DevOps:** Github, GitLab, CI/CD, Vercel, Docker  
+**Tools:** Vite, Git, WebStorm, Android Stuido, XCode 
+
+## Currently
+- Deepening expertise in **React and Next.js performance patterns**  
+- Refining **scalable component architectures**  
+- Improving accessibility and UX consistency across projects 
 
 <br/>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bekov28&" alt="bekov28" /></p>
