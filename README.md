@@ -4,7 +4,7 @@
 Frontend Engineer with experience building production-grade Vue.js, Next.js and SpringBoot applications focused on performance, scalability, and maintainability.
 
 ## Summary
-I build **high-performance, accessible frontend features** using React and TypeScript, with a strong focus on real-world impact.  
+I build **high-performance, accessible frontend features** using Vue, React and TypeScript, with a strong focus on real-world impact.  
 In commercial projects, I’ve **boosted network performance by ~30%** by streamlining API handling and data-fetching logic, **reduced code duplication by 25%** through the delivery of a standardized, production-ready design system, and delivered modular, maintainable UI systems.
 
 I work closely with designers, product managers, and backend engineers to ship reliable, user-focused interfaces.
