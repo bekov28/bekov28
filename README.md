@@ -21,13 +21,11 @@ I work closely with designers, product managers, and backend engineers to ship r
 </p>
 
 ## Tech Stack
-**Frontend:** Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML  
+**Frontend:** Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML, React Native  
 **Styling:** CSS, Tailwind CSS, SCSS, MUI, Styled Components  
 **Data & APIs:** REST API, React Query, TanStack Query, Redux Toolkit  
 **Backend:** Node.js, Express.js, MongoDB, Firebase, SpringBoot, Prisma  
-**Mobile:** React Native  
-**DevOps:** Github, GitLab, CI/CD, Vercel, Docker  
-**Tools:** Vite, Git, WebStorm, Android Stuido, XCode 
+**Tools & DevOps:** Git, CI/CD, Vercel, Docker, Vite, WebStorm, Android Stuido, XCode
 
 ## Currently
 - Deepening expertise in **React and Next.js performance patterns**  
