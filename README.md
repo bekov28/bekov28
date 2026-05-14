@@ -17,6 +17,13 @@
 </p>
 
 <h2>💻 Tech Stack:</h2>
+**Frontend:** Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML
+**Styling:** CSS, Tailwind CSS, SCSS, MUI, Styled Components
+**Data & APIs:** REST API, React Query, TanStack Query, Redux Toolkit
+**Backend:** Node.js, Express.js, MongoDB, Firebase, SpringBoot, Prisma
+**Mobile:** React Native 
+**Tools & DevOps:** Vite, Git, CI/CD, Vercel, GitLab, GitHub, Docker, WebStorm, Android Stuido, XCode
+
 
 <table>
   <tr>
