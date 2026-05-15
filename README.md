@@ -1,7 +1,7 @@
 # Berdiyor Orzikulov  
 **Frontend Engineer | Seoul, South Korea**
 
-Frontend Engineer with experience building production-grade Vue.js, Next.js and SpringBoot applications focused on performance, scalability, and maintainability.
+Frontend Engineer with experience building production-grade Vue.js, Next.js and SpringBoot applications focused on performance, scalability, and maintainability. I am a developer who understands both engineering and business, having 2 years of experience in IT and 6+ years of experience in marketing/business, primarily worked in fintech startups in S.Korea.
 
 ## Summary
 I build **high-performance, accessible frontend features** using Vue, React and TypeScript, with a strong focus on real-world impact.  
