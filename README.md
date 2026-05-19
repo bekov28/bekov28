@@ -7,11 +7,12 @@ Frontend Engineer with experience building production-grade Vue.js, Next.js and 
 - **[ForEx Platform](https://efx.shinhan.com/)** — A Foreign Exchange Platform for Shinhan Bank (Vue.js, Spring-Boot, Maven)
 - **[Options Hub](https://solven.uz)** — a Mobile Trading App for Options (JavaScript, Java, Spring-Boot)
 
-## Summary
-I build **high-performance, accessible frontend features** using Vue, React and TypeScript, with a strong focus on real-world impact.  
-In commercial projects, I’ve **boosted network performance by ~30%** by streamlining API handling and data-fetching logic, **reduced code duplication by 25%** through the delivery of a standardized, production-ready design system, and delivered modular, maintainable UI systems.
-
-I work closely with designers, product managers, and backend engineers to ship reliable, user-focused interfaces.
+## Tech Stack
+**Frontend:** Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML, React Native  
+**Styling:** CSS, Tailwind CSS, SCSS, MUI, Styled Components  
+**Data & APIs:** REST API, React Query, TanStack Query, Redux Toolkit  
+**Backend:** Node.js, Express.js, MongoDB, Firebase, SpringBoot, Prisma  
+**Tools & DevOps:** Git, CI/CD, Vercel, Docker, Vite, WebStorm, Android Stuido, XCode
 
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
@@ -24,12 +25,12 @@ I work closely with designers, product managers, and backend engineers to ship r
 <a href="https://www.linkedin.com/in/berdiyor-orzikulov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## Tech Stack
-**Frontend:** Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML, React Native  
-**Styling:** CSS, Tailwind CSS, SCSS, MUI, Styled Components  
-**Data & APIs:** REST API, React Query, TanStack Query, Redux Toolkit  
-**Backend:** Node.js, Express.js, MongoDB, Firebase, SpringBoot, Prisma  
-**Tools & DevOps:** Git, CI/CD, Vercel, Docker, Vite, WebStorm, Android Stuido, XCode
+
+## Summary
+I build **high-performance, accessible frontend features** using Vue, React and TypeScript, with a strong focus on real-world impact.  
+In commercial projects, I’ve **boosted network performance by ~30%** by streamlining API handling and data-fetching logic, **reduced code duplication by 25%** through the delivery of a standardized, production-ready design system, and delivered modular, maintainable UI systems.
+
+I work closely with designers, product managers, and backend engineers to ship reliable, user-focused interfaces.
 
 ## Currently
 - Deepening expertise in **React and Next.js performance patterns**  
