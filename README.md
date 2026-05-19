@@ -3,6 +3,10 @@
 
 Frontend Engineer with experience building production-grade Vue.js, Next.js and SpringBoot applications focused on performance, scalability, and maintainability. I am a developer who understands both engineering and business, having 2 years of experience in IT and 6+ years of experience in marketing/business, primarily worked in fintech startups in S.Korea.
 
+## Projects
+- **[ForEx Platform](https://efx.shinhan.com/)** — A Foreign Exchange Platform for Shinhan Bank (Vue.js, Spring-Boot, Maven)
+- **[Options Hub](https://solven.uz)** — a Mobile Trading App for Options (JavaScript, Java, Spring-Boot)
+
 ## Summary
 I build **high-performance, accessible frontend features** using Vue, React and TypeScript, with a strong focus on real-world impact.  
 In commercial projects, I’ve **boosted network performance by ~30%** by streamlining API handling and data-fetching logic, **reduced code duplication by 25%** through the delivery of a standardized, production-ready design system, and delivered modular, maintainable UI systems.
