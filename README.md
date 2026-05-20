@@ -5,7 +5,7 @@ Frontend Engineer with experience building production-grade Vue.js, Next.js and 
 
 ## Projects
 - **[ForEx Platform](https://efx.shinhan.com/)** — A Foreign Exchange Platform for Shinhan Bank (Vue.js, Spring-Boot, Maven)
-- **[Options Hub](https://solven.uz)** — a Mobile Trading App for Options (JavaScript, Java, Spring-Boot)
+- **[Options Hub](https://www.eugenefutures.com/OptionsHub/index.html)** — a Mobile Trading App for Options (JavaScript, Java, Spring-Boot)
 
 ## Tech Stack
 **Frontend:** Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML, React Native  
